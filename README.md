@@ -1,9 +1,11 @@
 ![Hello World](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 ### Pushkar
-🔭 I’m currently working as associate consultant for Servian  
-🌱 I’m currently learning participating on gocoder.one's AI competition  
-⚡ Fun fact:I play chess when I'm bored  
-
+🔭 I’m currently working as associate consultant at Servian  
+🌱 I’m currently learning learning :
+    Azure platform admin associate  
+    Deep Reinforcement learning for gocoder AI competition  
+🎓 Databricks certified spark associate developer for python 3
+⚡ Fun fact:I play chess when I'm bored
 <!--
 **dejokz/dejokz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
