@@ -22,4 +22,7 @@
 
 
 [![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejokz&show_icons=true&theme=dark)](https://github.com/dejokz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejokz&langs_count=8)](https://github.com/dejokz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejokz&langs_count=8)](https://github.com/dejokz/github-readme-stats)  
+
+![visitors](https://komarev.com/ghpvc/?username=dejokz)
