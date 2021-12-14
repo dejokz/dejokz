@@ -1,7 +1,7 @@
 ![Hello World](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 ### Pushkar
 🔭 I’m currently working as associate consultant at Servian  
-🌱 I’m currently learning learning :
+🌱 I’m currently learning learning :  
     Azure platform admin associate  
     Deep Reinforcement learning for gocoder AI competition  
 🎓 Databricks certified spark associate developer for python 3
