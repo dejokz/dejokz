@@ -2,13 +2,13 @@
 # Pushkar K.G (Associate Consultant at [Servian](https://www.servian.com/)) 
 👨‍💻 Works as a Data engineer for Toyota Financials Australia  
 🌱 I’m currently learning learning for:  
-  *  Azure platform admin associate exam
-  *  Deep Reinforcement learning for [gocoder](https://www.gocoder.one/) AI competition
   *  Databricks certified professional data scientist exam  
+  *  Deep Learning by Fast.ai
 
 📜 Scrum master  
-🎓 Databricks certified spark associate developer for python 3  
-⚡ Fun fact: I play [chess](https://lichess.org/@/dopamineaddict) when I'm bored  
+🎓 Databricks certified spark associate developer for python 3.    
+🎓 Azure Databricks Certified Associate Platform Administrator.  
+⚡ Fun fact: I play [chess](https://lichess.org/@/dopamineaddict) when I'm bored.   
 
 ---
 ## Tech Stack 💻  
@@ -16,6 +16,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" width="55" height="55">
 
 <img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="65"> <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" width="55"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="55">
+
+---
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-kg-461b25146/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lust4Serotonin)
 
 ---
 ## Github stats  
