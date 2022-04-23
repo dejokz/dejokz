@@ -2,12 +2,13 @@
 # Pushkar K.G (Associate Consultant at [Servian](https://www.servian.com/)) 
 👨‍💻 Works as a Data engineer for Toyota Financials Australia  
 🌱 I’m currently learning learning for:  
-  *  Databricks certified professional data scientist exam  
   *  Deep Learning by Fast.ai
+  *  Tensorflow developer certification
 
 📜 Scrum master  
 🎓 Databricks certified spark associate developer for python 3.    
 🎓 Azure Databricks Certified Associate Platform Administrator.  
+🎓 Databricks certified professional data scientis
 ⚡ Fun fact: I play [chess](https://lichess.org/@/dopamineaddict) when I'm bored.   
 
 ---
