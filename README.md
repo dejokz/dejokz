@@ -8,7 +8,7 @@
 📜 Scrum master  
 🎓 Databricks certified spark associate developer for python 3.    
 🎓 Azure Databricks Certified Associate Platform Administrator.  
-🎓 Databricks certified professional data scientis
+🎓 Databricks certified professional data scientist  
 ⚡ Fun fact: I play [chess](https://lichess.org/@/dopamineaddict) when I'm bored.   
 
 ---
