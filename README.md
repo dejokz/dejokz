@@ -1,6 +1,6 @@
 ![Hello World](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 # Pushkar K.G 
-👨‍💻 Working as a Data scientist
+👨‍💻 Working as a Data scientist  
 🌱 I’m currently competiting in:  
   *  The Learning Agency Lab - PII Data Detection [link](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data)
   *  LLM Prompt Recovery [link](https://www.kaggle.com/competitions/llm-prompt-recovery)
