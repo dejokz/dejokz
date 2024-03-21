@@ -1,9 +1,10 @@
 ![Hello World](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
-# Pushkar K.G (Associate Consultant at [Servian](https://www.servian.com/)) 
-👨‍💻 Works as a Data engineer for Toyota Financials Australia  
-🌱 I’m currently learning learning for:  
-  *  Deep Learning by Fast.ai
-  *  Tensorflow developer certification
+# Pushkar K.G 
+👨‍💻 Working as a Data scientist
+🌱 I’m currently competiting in:  
+  *  The Learning Agency Lab - PII Data Detection [link](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data)
+  *  LLM Prompt Recovery [link](https://www.kaggle.com/competitions/llm-prompt-recovery)
+  *  Alim'confiance : Official food safety controls [link](https://app.trustii.io/datasets/1519)
 
 📜 Scrum master  
 🎓 Databricks certified spark associate developer for python 3.    
